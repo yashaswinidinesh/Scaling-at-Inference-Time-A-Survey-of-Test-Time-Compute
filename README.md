@@ -10,7 +10,7 @@
 
 > **"A Survey of Test-Time Compute: From Intuitive Inference to Deliberate Reasoning"**  
 > arXiv:2501.02497 | 2025  
-> 🔗 [Read on arXiv](https://arxiv.org/abs/2501.02497)
+> 🔗 [Read on arXiv](https://drive.google.com/file/d/1KwbBiFUZRuOoN3MxJnzGkipWywQsF30t/view?usp=share_link)
 
 ---
 
@@ -21,7 +21,7 @@
 | 📰 Medium Article | [What If AI Just Thought a Little Harder?](https://medium.com/p/0b8a8cd7c9ae?postPublishedType=initia) |
 | 🎞️ Slide Deck (SlideShare) | [SlideShare Presentation](https://www.slideshare.net/[your-handle]/test-time-compute-yashaswini-dinesh) |
 | 🎬 Video Walkthrough | [YouTube Video](https://youtu.be/[your-video-id]) |
-| 💻 This Repository | [GitHub](https://github.com/[your-username]/test-time-compute-short-story) |
+| 💻 This Repository | [GitHub](https://github.com/yashaswinidinesh/Scaling-at-Inference-Time-A-Survey-of-Test-Time-Compute) |
 
 > **Update the links above** after publishing to Medium, SlideShare, and YouTube.
 
