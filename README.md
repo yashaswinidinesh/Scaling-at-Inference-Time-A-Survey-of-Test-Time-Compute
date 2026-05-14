@@ -20,7 +20,7 @@
 |---|---|
 | 📰 Medium Article | [What If AI Just Thought a Little Harder?](https://medium.com/p/0b8a8cd7c9ae?postPublishedType=initia) |
 | 🎞️ Slide Deck (SlideShare) | [SlideShare Presentation](https://docs.google.com/presentation/d/19tm8EqXxyjP5LlfbOYelkkw1j3RilMMf/edit?usp=share_link&ouid=107950069020013929648&rtpof=true&sd=true) |
-| 🎬 Video Walkthrough | [YouTube Video](https://youtu.be/[your-video-id]) |
+| 🎬 Video Walkthrough | [YouTube Video](https://drive.google.com/file/d/1D_Fnvwrv277yTvoAOWdUCSh9TCj7o2XN/view?usp=sharing) |
 | 💻 This Repository | [GitHub](https://github.com/yashaswinidinesh/Scaling-at-Inference-Time-A-Survey-of-Test-Time-Compute) |
 
 > **Update the links above** after publishing to Medium, SlideShare, and YouTube.
