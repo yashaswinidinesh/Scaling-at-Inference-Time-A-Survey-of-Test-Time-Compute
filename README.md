@@ -18,7 +18,7 @@
 
 | Deliverable | Link |
 |---|---|
-| 📰 Medium Article | [What If AI Just Thought a Little Harder?](https://medium.com/@[your-handle]/what-if-ai-just-thought-a-little-harder) |
+| 📰 Medium Article | [What If AI Just Thought a Little Harder?](https://medium.com/p/0b8a8cd7c9ae?postPublishedType=initia) |
 | 🎞️ Slide Deck (SlideShare) | [SlideShare Presentation](https://www.slideshare.net/[your-handle]/test-time-compute-yashaswini-dinesh) |
 | 🎬 Video Walkthrough | [YouTube Video](https://youtu.be/[your-video-id]) |
 | 💻 This Repository | [GitHub](https://github.com/[your-username]/test-time-compute-short-story) |
